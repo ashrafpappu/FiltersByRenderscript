@@ -1,13 +1,13 @@
-package com.example.pappu.filtersbyrenderscript;
+package com.example.pappu.filtersbyrenderscript.filters;
 
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.support.v8.renderscript.RenderScript;
 
-import com.ringid.ringstudio.filters.renderscript.ScriptC_BlackWhiteFilter;
+import com.example.pappu.filtersbyrenderscript.renderscript.ScriptC_BlackWhiteFilter;
 
 
-class BlackWhiteFilter extends ImageFilter {
+public class BlackWhiteFilter extends ImageFilter {
 	
 	  private static BlackWhiteFilter instance;
 	  private ScriptC_BlackWhiteFilter script;
