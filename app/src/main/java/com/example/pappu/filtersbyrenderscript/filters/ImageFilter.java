@@ -1,4 +1,4 @@
-package com.example.pappu.filtersbyrenderscript;
+package com.example.pappu.filtersbyrenderscript.filters;
 
 import android.content.Context;
 import android.graphics.Bitmap;

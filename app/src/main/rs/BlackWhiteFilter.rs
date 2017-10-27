@@ -1,5 +1,5 @@
 #pragma version(1)
-#pragma rs java_package_name(com.ringid.ringstudio.filters.renderscript)
+#pragma rs java_package_name(com.example.pappu.filtersbyrenderscript.renderscript)
 
 // 黑白效果
 
